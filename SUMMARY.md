@@ -1,0 +1,20 @@
+# 开发者中心
+* 概述
+   * [概述](gai_shu.md)
+* 快速入门
+   * [快速入门概述](kuai_su_ru_men_gai_shu.md)
+   * [注册登录](chapter2_section1.md)
+   * [激活账号](chapter2_section2.md)
+   * [添加主机](chapter2_section3.md)
+   * [构建应用](chapter2_section4.md)
+   * [部署应用](chapter2_section5.md)
+   * [访问域名](chapter2_section6.md)
+* 规范约束
+   * [规范约束](gui_fan_yue_shu.md)
+* 特性介绍
+   * [特性介绍](te_xing_jie_shao.md)
+* 典型场景
+   * [典型场景](dian_xing_chang_jing.md)
+* 基础设施规划
+   * [基础设施规划](ji_chu_she_shi_gui_hua.md)
+
