@@ -2,4 +2,4 @@
 
 本章节将带领您从注册一个新账号开始，直到完成整个应用部署上线的全过程。主要过程流程见下图：
 
-![](kaifazhezhongxin-4.png)
+![](images/kaifazhezhongxin-4.png)
